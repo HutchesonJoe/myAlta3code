@@ -1,7 +1,6 @@
-# mycode (Project Title)
+# myAlta3code
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+This is a repo to learn Python basics for an interview for a technical instructor position and to enrich my understanding of version control. 
 
 ## Getting Started
 
