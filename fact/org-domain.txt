@@ -1,0 +1,4 @@
+lookup.tails.example.org/nsearch.robotnik.example.org/ndns.knuckles.example.org/nemerald.ring.example.org/nlookup.tails.example.org
+search.robotnik.example.org
+dns.knuckles.example.org
+emerald.ring.example.org
