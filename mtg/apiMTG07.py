@@ -25,11 +25,8 @@ def main():
     # the .json() method will dump a JSON string into Pythonic data structures. COOL!
     # This is much easier than using the urllib.request library
     cards = resp.json()
-    with open(f"{setcode}info", "w") as codeinfo:
-        for card in cards:
-            print(card, file=codeinfo)
-    #this is not working
-    #print(cards)
+    
+    print(cards)
 
 if __name__ == "__main__":
     main()
